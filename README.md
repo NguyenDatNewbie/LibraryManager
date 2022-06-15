@@ -1,4 +1,4 @@
-# LibraryManager
+# Library Manager
 
 Để chạy được ứng dụng quản lý thư viện của trường phải hoàn thành các bước sau
 + Chạy file CreateDatabaseSql trong phần mềm sql
